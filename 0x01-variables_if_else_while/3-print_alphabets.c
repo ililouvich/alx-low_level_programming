@@ -9,6 +9,7 @@
 int main(void)
 {
 	int i;
+	char c;
 
 	for (i = 97; i <= 122; i++)
 	{
