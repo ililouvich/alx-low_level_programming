@@ -14,15 +14,11 @@ int main(void)
 	{
 		putchar(i);
 	}
-	
-	char c = 'A';
-
-    while (c <= 'Z')
-    {
-        putchar(c);
-        c++;
-    }
+	for (i = 0; i < 26; i++)
+	{
+	i = 'A' + i;
+	putchar(i);
+	}	
 	putchar('\n');
-
 	return (0);
 }
