@@ -1,4 +1,5 @@
-#include </alx-low_level_programming/0x02-functions_nested_loops/main.h>
+#include "main.h"
+#include <stdio.h>
 
 /**
  * main - Entry point
@@ -7,14 +8,19 @@
  */
 int main(void)
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
-	return (0);
+        putchar('_');
+        putchar('p');
+        putchar('u');
+        putchar('t');
+        putchar('c');
+        putchar('h');
+        putchar('a');
+        putchar('r');
+        putchar('\n');
+        return (0);
 }
+
+
+
+
+
