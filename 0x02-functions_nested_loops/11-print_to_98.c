@@ -3,7 +3,7 @@
 
 
 /**
-* Print_to_98 - prints TO 98
+* print_to_98 - prints TO 98
 * @n: The starting point
 */
 void print_to_98(int n)
