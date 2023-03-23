@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- *Prints 10 times the alphabet in lowercase
+ * print_alphabet_x10 - Prints the alphabet in lowercase ten times
+ *
+ * It achieves this by using a nested loop to iterate through
+ * the alphabet ten times.
  */
 void print_alphabet_x10(void)
 {
